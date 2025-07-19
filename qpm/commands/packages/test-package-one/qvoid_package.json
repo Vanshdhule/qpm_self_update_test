@@ -1,0 +1,11 @@
+{
+    "name": "test-package-one",
+    "version": "1.0.0",
+    "description": "A test package for qpm's manifest and checksum verification.",
+    "author": "QVoid Dev",
+    "source_url": "https://github.com/Vanshdhule/test_package/releases/download/v0.1-test/test_package.zip",
+    "checksum": "839E6DD7ED237D0E3366A9C1A18DB68F76C3661A5C7BF658C34F3A7D379C4ABF",
+    "dependencies": [],
+    "install_script": null,
+    "entry_point": "my_script.py"
+}
